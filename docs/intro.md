@@ -4,6 +4,8 @@ sidebar_label: "Intro"
 sidebar_position: 1
 ---
 
+Hello! 👋🏼
+
 Test Concerto is a open-source npm package that integrates Selenium, Playwright, Appium, WebdriverIO & CucumberJS for an all-round UI testing experience in Behaviour-driven development (BDD). You can check the "Projects" section of GitHub to keep track of our progress.
 
 ![Description poster](./img/readme-poster.png)

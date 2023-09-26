@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Test Concerto",
+  title: "hive-ft-runner",
   tagline:
     "Automation testing framework that integrates Selenium, Playwright, Appium, WebdriverIO & CucumberJS for an all-round UI testing experience in Behaviour-driven development (BDD).",
   favicon: "img/favicon.ico",
